@@ -1,0 +1,8 @@
+{"level":"info","message":"Starting AMM listener service...","service":"amm-listener","timestamp":"2025-09-02 02:02:47"}
+{"level":"info","message":"Connected to XRPL","service":"amm-listener","timestamp":"2025-09-02 02:02:49"}
+{"level":"info","message":"Subscribed to XRPL transactions stream","service":"amm-listener","timestamp":"2025-09-02 02:02:49"}
+{"level":"info","message":"Subscribed to 1 channel(s). Waiting for new tokens...","service":"amm-listener","timestamp":"2025-09-02 02:02:49"}
+{"level":"info","message":"Starting AMM listener service...","service":"amm-listener","timestamp":"2025-09-02 02:03:18"}
+{"level":"info","message":"Connected to XRPL","service":"amm-listener","timestamp":"2025-09-02 02:03:19"}
+{"level":"info","message":"Subscribed to XRPL transactions stream","service":"amm-listener","timestamp":"2025-09-02 02:03:20"}
+{"level":"info","message":"Subscribed to 1 channel(s). Waiting for new tokens...","service":"amm-listener","timestamp":"2025-09-02 02:03:20"}
